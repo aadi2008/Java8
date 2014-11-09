@@ -13,6 +13,7 @@ public class Student {
     }
     public void printData(){
         System.out.println("Name:"+name + " age:"+age);
+        System.out.println("This is for testing");
     }
     public Student(String name,int age){
         this.name = name;
